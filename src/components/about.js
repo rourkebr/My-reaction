@@ -10,7 +10,7 @@ function About() {
                 <img src={myPic} className='profpic' alt="picture of bryan" />
                 <div className='outer'>
                     <p className="aboutme">
-                        Originally from the Mitten State, Michigan, I know live in Arizona with my wife and daughter. I am a retired collegiate softball coach and currently work in the golf industry. I am aspiring to apply a new coding backgroud to a future career.
+                        Originally from the Mitten State, Michigan, I now live in Arizona with my wife and daughter. I am a retired collegiate softball coach and currently work in the golf industry. I am aspiring to apply a new coding backgroud to a future career.
                     </p>
                 </div>
             </article>
